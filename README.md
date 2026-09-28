@@ -64,3 +64,7 @@ The prototype is designed and tested using Wokwi.
 ## Project Goal
 
 To demonstrate an affordable embedded safety system capable of providing early warnings for potentially hazardous laboratory conditions.
+## 🔗 Wokwi Prototype
+
+[Open LabShield Simulation](https://wokwi.com/projects/476381008423211009)
+
